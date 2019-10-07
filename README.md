@@ -165,3 +165,7 @@ Related to: #48, #45
 [커밋 메시지 가이드 :: RomuloOliveria](https://github.com/RomuloOliveira/commit-messages-guide/blob/master/README_ko-KR.md)
 
 [style-git-commit-message :: slashsbin](https://github.com/slashsbin/styleguide-git-commit-message)
+
+### License
+
+[MIT License](./LICENSE)
